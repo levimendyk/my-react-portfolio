@@ -1,0 +1,9 @@
+li {
+    display: inline;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #ec4e20;
+}
