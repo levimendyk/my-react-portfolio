@@ -15,12 +15,17 @@ export default function Navigation() {
         </button>
         <button>
         <li>
-          <a href="about">About Me</a>
+          <a href="about">About</a>
         </li>
         </button>
         <button>
         <li>
           <a href="projects">Projects</a>
+        </li>
+        </button>
+        <button>
+        <li>
+          <a href="projects">Resume</a>
         </li>
         </button>
         <button>
