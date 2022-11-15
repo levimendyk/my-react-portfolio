@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import Header from "../Header";
 import Footer from "../Footer";
 import Home from "./Home";
@@ -10,15 +10,15 @@ export default function Pages() {
 
     const renderPage = () => {
         switch (currentPage) {
-            case "Home";
+            case "Home":
                 return <Home />;
-            case "About";
+            case "About":
                 return <About />
-            case "Project";
+            case "Project":
                 return <Project />
-            case "Resume";
+            case "Resume":
                 return <Resume />
-            case "Contact";
+            case "Contact":
                 return <Contact />
             default:
                 return <Home />
