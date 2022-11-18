@@ -25,7 +25,7 @@ function About() {
               paddingBottom: "50px",
             }}
           >
-            <h1>About me, Levi Mendyk</h1>
+            <h1 className="header-about">About me, Levi Mendyk</h1>
             <p className="about-info">
               Hello friend, my name is Levi Allen Mendyk. I am from a small town
               called Kearney, NE currently living in Denver, CO. I'm an

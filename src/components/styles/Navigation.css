@@ -1,6 +1,17 @@
+nav {
+    display: flex;
+    align-items: flex-end;
+}
+
+button {
+    border: none;
+    background-color: #EC4E20;
+    align-items: flex-end;
+}
+
 .nav-li {
     display: inline;
     margin: 10px;
     text-decoration: none;
-    color: #ec4e20;
+    color: white;
 }

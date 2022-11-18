@@ -1,4 +1,6 @@
 .header {
-    background: #697268;
-    color: white;
+    background: #EC4E20;
+    color: black;
+    display: flex;
+    justify-content: space-between;
 }

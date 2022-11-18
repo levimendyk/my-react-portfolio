@@ -1,9 +1,8 @@
 import React from "react";
 import "./styles/Navigation.css";
-// import React, { useState } from "react";
 
 export default function Navigation(props) {
-  // let [page, setPage] = useState(home);
+
   return (
     <nav>
       <ul>

@@ -1,6 +1,14 @@
+.header-about {
+    color: black;
+}
 .about-info {
     text-align: left;
     padding-left: 20px;
+    color: black;
+}
+
+h6 {
+    color: black;
 }
 
 .fun-facts  {
@@ -10,6 +18,7 @@
 
 .skill-heading {
     font-size: 35px;
+    color: black;
 }
 
 .skill-logo {
@@ -27,3 +36,4 @@
     height: 14%;
     width: 14%;
 }
+
