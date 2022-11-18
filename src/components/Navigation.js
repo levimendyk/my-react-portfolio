@@ -8,19 +8,19 @@ export default function Navigation(props) {
     <nav>
       <ul>
         <button onClick={() => props.setCurrentPage("Home")}>
-          <li>Home</li>
+          <li className="nav-li">Home</li>
         </button>
         <button onClick={() => props.setCurrentPage("About")}>
-          <li>About</li>
+          <li className="nav-li">About</li>
         </button>
         <button onClick={() => props.setCurrentPage("Project")}>
-          <li>Projects</li>
+          <li className="nav-li">Projects</li>
         </button>
         <button onClick={() => props.setCurrentPage("Resume")}>
-          <li>Resume</li>
+          <li className="nav-li">Resume</li>
         </button>
         <button onClick={() => props.setCurrentPage("Contact")}>
-          <li>Contact</li>
+          <li className="nav-li">Contact</li>
         </button>
       </ul>
     </nav>

@@ -6,6 +6,7 @@ import Home from "./components/pages/Home";
 import Header from "./components/Header";
 import About from "./components/pages/About";
 import Contact from "./components/pages/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   const [currentPage, setCurrentPage] = useState("");
@@ -27,6 +28,7 @@ function App() {
     <div className="App">
       <Header setCurrentPage={setCurrentPage} />
       {renderPage()}
+      <Footer />
     </div>
   );
 }

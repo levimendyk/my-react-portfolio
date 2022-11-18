@@ -1,0 +1,29 @@
+.about-info {
+    text-align: left;
+    padding-left: 20px;
+}
+
+.fun-facts  {
+    text-align: left;
+    color: black;
+}
+
+.skill-heading {
+    font-size: 35px;
+}
+
+.skill-logo {
+    height: 10%;
+    width: 10%;
+    margin: 10px;
+}
+
+#css-id {
+    height: 7.3%;
+    width: 7.3%;
+}
+
+#mongo-id {
+    height: 14%;
+    width: 14%;
+}
