@@ -43,7 +43,7 @@ function About() {
                 black is legally a color, some may call it just a shade
               </li>
               <li>
-                My Favorite Hobbies include spening time with friends, watch
+                My Favorite Hobbies include spending time with friends, watch
                 movies, play video games, workout at the gym, and eating food
                 (yes, I call it a hobby)
               </li>

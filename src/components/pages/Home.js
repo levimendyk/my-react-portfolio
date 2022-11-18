@@ -19,13 +19,11 @@ export default function Home() {
           </MovingText>
         </h1>
         <p class="lead">
-          This is a simple hero unit, a simple jumbotron-style component for
-          calling extra attention to featured content or information.
+          If you came her to learn more about me, well you came to the right spot. This site details my professional information as a programmer.
         </p>
         <div class="my-4">
           <p>
-            It uses utility classes for typography and spacing to space content
-            out within the larger container.
+            Please contact me with any questions.
           </p>
         </div>
       </div>
