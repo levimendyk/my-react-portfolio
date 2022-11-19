@@ -1,5 +1,18 @@
-footer {
+.mainfooter {
     background-color: black;
     color: white;
     height: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-social-icons {
+    display: contents;
+}
+
+.social-icons {
+    display: inline;
+    padding: 20px;
+    text-align: center;
+    list-style : none;
 }
