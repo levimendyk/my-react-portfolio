@@ -40,7 +40,7 @@ GIVEN a single-page application portfolio for a web developer
 <li>THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)</li>
 </ul>
 
-[Link to Portfolio](https://placeholder)
+[Link to Portfolio](https://levimendyk.github.io/my-react-portfolio/)
 
 Contribution guidelines for this project
 <br>
