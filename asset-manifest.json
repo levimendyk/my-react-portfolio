@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.6941ed6f.css",
+    "main.js": "/my-react-portfolio/static/js/main.a75331f0.js",
+    "static/media/magic-app.png": "/my-react-portfolio/static/media/magic-app.bc344d9c2842be16a589.png",
+    "static/media/week-2-challenge.png": "/my-react-portfolio/static/media/week-2-challenge.17426c99d89a709b179b.png",
+    "static/media/levi-resume.jpg": "/my-react-portfolio/static/media/levi-resume.9116be6b7a13a5912fc4.jpg",
+    "static/media/mythic-plus-team.png": "/my-react-portfolio/static/media/mythic-plus-team.5f237001e542de504a20.png",
+    "static/media/weather-dashboard.png": "/my-react-portfolio/static/media/weather-dashboard.bc383ad4a271eef51a1b.png",
+    "static/media/work-day-schedule.png": "/my-react-portfolio/static/media/work-day-schedule.305f0b183102c223e64a.png",
+    "static/media/week-3-challenge.png": "/my-react-portfolio/static/media/week-3-challenge.f401fee3ddc9c7260686.png",
+    "static/media/css-3-logo.png": "/my-react-portfolio/static/media/css-3-logo.9b9dcc2d8eeecbdee2f6.png",
+    "static/media/levi.JPG": "/my-react-portfolio/static/media/levi.637b0c9eefc37d4ac20a.JPG",
+    "static/media/mysql-logo.png": "/my-react-portfolio/static/media/mysql-logo.fbc722c8487d0250a9cf.png",
+    "static/media/mongodb-logo.png": "/my-react-portfolio/static/media/mongodb-logo.af0ab6130d683cf840e7.png",
+    "static/media/react-logo.png": "/my-react-portfolio/static/media/react-logo.daae3e094212712ac94b.png",
+    "static/media/nodelogo.png": "/my-react-portfolio/static/media/nodelogo.690aa6797c5744330ac6.png",
+    "index.html": "/my-react-portfolio/index.html",
+    "main.6941ed6f.css.map": "/my-react-portfolio/static/css/main.6941ed6f.css.map",
+    "main.a75331f0.js.map": "/my-react-portfolio/static/js/main.a75331f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6941ed6f.css",
+    "static/js/main.a75331f0.js"
+  ]
+}
